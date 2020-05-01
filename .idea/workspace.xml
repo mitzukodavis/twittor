@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da38f08-17f2-4418-ab11-f9aeeea851e1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mtzk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mtzk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/twittor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/twittor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/handlers.go" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/handlers.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" afterPath="$PROJECT_DIR$/main" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlew/validoJWT.go" beforeDir="false" afterPath="$PROJECT_DIR$/middlew/validoJWT.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
