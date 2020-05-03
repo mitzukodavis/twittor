@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9da38f08-17f2-4418-ab11-f9aeeea851e1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/handlers.go" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/handlers.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/middlew/validoJWT.go" beforeDir="false" afterPath="$PROJECT_DIR$/middlew/validoJWT.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/usuario.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/usuario.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/procesoToken.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/procesoToken.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,36 +35,48 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="24" y="514" key="#Plugins" timestamp="1588293393158">
+    <state x="659" y="278" key="#Plugins" timestamp="1588454253735">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="24" y="514" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1588293393158" />
+    <state x="659" y="278" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1588454253735" />
+    <state x="62" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588477129987">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="62" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588477129987" />
+    <state x="88" y="383" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1588457018716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="88" y="383" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1588457018716" />
     <state x="67" y="124" key="CommitChangelistDialog2" timestamp="1588294026323">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="67" y="124" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1588294026323" />
-    <state x="30" y="77" key="SettingsEditor" timestamp="1588304992777">
+    <state x="30" y="77" key="SettingsEditor" timestamp="1588476344558">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="30" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588304992777" />
+    <state x="30" y="77" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1588476344558" />
     <state x="48" y="278" width="540" height="524" key="StructurePopup" timestamp="1588304584606">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="48" y="278" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1588304584606" />
-    <state x="195" y="403" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1588346129434">
+    <state x="22" y="184" width="592" height="714" key="find.popup" timestamp="1588530744323">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="195" y="403" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588346129434" />
-    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1588351640959">
+    <state x="22" y="184" width="592" height="714" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588530744323" />
+    <state x="195" y="403" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1588531658983">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588351640959" />
+    <state x="195" y="403" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588531658983" />
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1588454175250">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1588454175250" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
